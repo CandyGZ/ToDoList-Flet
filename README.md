@@ -1,6 +1,6 @@
-# Technical Document - Flet Task Management App##
+# Technical Document - Flet Task Management App
 #Overview#
-This technical document provides an overview of the Flet Task Management App and describes the libraries and technologies used in its development. The app is designed for managing tasks and categories, featuring a user-friendly interface.
+This technical document provides an overview of the Flet Task Management App and describes the libraries and technologies used in its development. The app is designed for managing a very simple TO-Do list for a kid, featuring a user-friendly interface.
 
 ## Technologies Used
 The Flet Task Management App is built using the following technologies and libraries:
