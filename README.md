@@ -1,4 +1,7 @@
-# Technical Document - Flet Task Management App
+# Flet Task Management App
+
+![ScreenshotApp](https://github.com/CandyGZ/ToDoList-Flet/blob/main/images/screeensh.jpg)
+
 #Overview#
 This technical document provides an overview of the Flet Task Management App and describes the libraries and technologies used in its development. The app is designed for managing a very simple TO-Do list for a kid, featuring a user-friendly interface.
 
